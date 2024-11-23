@@ -9,4 +9,4 @@ echo "Hello value of a is $a and value of b is $b"
 echo "Do you understand the script?"
 echo "This is updated comment"
 echo "Updated on 18/11/2024"
-
+echo "Adding a line to create merge conflict"
