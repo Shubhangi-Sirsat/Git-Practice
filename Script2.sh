@@ -9,4 +9,6 @@ echo "Hello value of a is $a and value of b is $b"
 echo "Do you understand the script?"
 echo "This is updated comment"
 echo "Updated on 18/11/2024"
+echo "Updated file on 23/11/2024"
+echo "This is only text"
 
