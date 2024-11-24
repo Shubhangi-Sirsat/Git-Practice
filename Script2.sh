@@ -18,5 +18,5 @@ echo "Adding new lines from git bash"
 echo "Checking how to take access from Ec2 machine"
 echo "Checking how to push data from branch"
 echo "I will check how to merge from branch"
+echo "Chnging this new line on 24/11/24"
 echo "changing for some new thing adding to this branch"
-
