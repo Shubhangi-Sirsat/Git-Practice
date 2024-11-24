@@ -8,3 +8,4 @@ export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 echo "Adding new updates to script 3"
 echo "Added some new code to script 3"
+echo "Adding commit 2"
