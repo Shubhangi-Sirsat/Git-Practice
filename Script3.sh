@@ -11,4 +11,3 @@ echo "Added some new code to script 3"
 echo "Adding commit 2"
 echo "Adding commit 3"
 echo "Adding commit 5"
-
