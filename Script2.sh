@@ -14,4 +14,8 @@ echo "This is only text"
 echo "new line"
 echo "Adding a line to create merge conflict"
 echo "Creating merge conflict from EC2"
+echo "Adding new lines from git bash"
+echo "Checking how to take access from Ec2 machine"
+echo "Checking how to push data from branch"
+echo "I will check how to merge from branch"
 
